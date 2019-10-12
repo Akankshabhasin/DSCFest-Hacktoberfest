@@ -3,7 +3,8 @@ This program is by DSC-Galgotias|GTBIT to train students to learn Git & GitHub. 
 
 ### ⚡️ Follow Us:
 
-[Twitter](https://twitter.com/DSC_GU)✨
+[Twitter(DSC-GU)](https://twitter.com/DSC_GU)✨
+[Twitter(DSC-GTBIT)](https://twitter.com/dscgtbit)✨
 [LinkedIn](https://www.linkedin.com/company/dsc-galgotias/)✨
 [Commudle](https://commudle.com/dsc-galgotias-university)✨
 
